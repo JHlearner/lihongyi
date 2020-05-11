@@ -1,2 +1,2 @@
 # lihongyi
-The asignment of lihongyi's machine learning
+The assignment of lihongyi's machine learning
